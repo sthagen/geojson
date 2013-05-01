@@ -1,0 +1,2 @@
+Working copy moved on 2013-04-30 to:
+https://raw.github.com/GeoJSONWG/draft-geojson/master/draft.txt
