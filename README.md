@@ -8,3 +8,5 @@ has moved on 2013-04-30 to
 While the draft further ripens, it is accessible at
 draft.([txt](http://geojsonwg.github.io/draft-geojson/draft.txt) |
 [html](http://geojsonwg.github.io/draft-geojson/draft.html)) for reading.
+
+Note: The name of the default branch (with special meaning for github and gitlab users) is `default` :wink:
